@@ -1,0 +1,18 @@
+***********************************
+
+First we code our meals:
+- As a user I can list all meals
+- As a user I can add a meal
+
+***********************************
+
+Second we code our customers:
+- As a user I can list all customers
+- As a user I can add a customer
+
+***********************************
+
+Finally:
+- Refactor code (inheritance)
+
+***********************************
